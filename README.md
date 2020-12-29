@@ -7,7 +7,7 @@ I'm Juan Manuel Ibarzabal Salles, I'm glad for your visit to my github!
 #### Enlaces/Some Links:
 
 - [Portfolio - Portafolio](https://juanmaportfolio.netlify.app)
-- https://www.linkedin.com/in/juan-manuel-ibarzabal/
+- [Linkedin](https://www.linkedin.com/in/juan-manuel-ibarzabal/)
 
 
 
