@@ -1,8 +1,6 @@
 ### Hello Word 👋
 
-I'm Juan Manuel Ibarzabal Salles, an Argentine Frontend Developer in love with ♥ React. With over 4 years of experience in HTML5, CSS3, JavaScript, and React, I specialize in developing interactive and scalable web applications.
-
-I'm glad you visited my GitHub!
+I'm Juan Manuel Ibarzabal Salles, an Argentine Frontend Developer in love with ♥ [React](https://reactjs.org). With over 4 years of experience in HTML5, CSS3, JavaScript, and React, I specialize in developing interactive and scalable web applications. I'm glad you visited my GitHub!
 
 <br />
 
@@ -44,13 +42,15 @@ I'm glad you visited my GitHub!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jest/jest.png"></code>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarzabal-jm&layout=compact&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ibarzabal-jm&show_icons=true&theme=radical&?theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibarzabal-jm&layout=compact&show_icons=true&theme=radical&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibarzabal-jm&show_icons=true&theme=radical&?theme=merko&count_private=true" alt="GitHub Stats" />
+</div>
+    
+
