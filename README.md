@@ -21,7 +21,7 @@ I'm glad for your visit to my github!
         src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=D93A7D"
       />
 </a>
-<a href="https://juanmaportfolio.netlify.app">
+<a href="https://www.ibarzabal.ar/">
       <img
         align="left"
         alt="Juan Manuel Ibarzabal Web"
